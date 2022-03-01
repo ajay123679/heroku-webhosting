@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: orangered;
+}
+div{
+    width: 700px;
+    border: 1px solid white;
+    margin:200px auto;
+    padding:30px;
+    background-color: green;
+    color: aliceblue;
+}
